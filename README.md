@@ -1,3 +1,7 @@
+
+<img src"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRRIp-4rHp4h90aJwwgtGTkTSKlD1D_wnryg&usqp=CAU"
+
+
 <h1 align="center">Hi 👋, I'm SHARMEEN</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
