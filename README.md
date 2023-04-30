@@ -1,5 +1,5 @@
 
-<img src"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRRIp-4rHp4h90aJwwgtGTkTSKlD1D_wnryg&usqp=CAU"
+<img src="https://avatars.githubusercontent.com/u/125390864?v=4" >
 
 
 <h1 align="center">Hi 👋, I'm SHARMEEN</h1>
